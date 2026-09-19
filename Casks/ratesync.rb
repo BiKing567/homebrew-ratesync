@@ -7,7 +7,7 @@ cask "ratesync" do
   desc "Automatically switches audio sample rates for lossless music"
   homepage "https://github.com/BiKing567/RateSync"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "RateSync.app"
 
