@@ -1,6 +1,6 @@
 cask "ratesync" do
-  version "3.2.4"
-  sha256 "7e62d4f09c654aa8abf79195e7e2e2d485569410e1a24df7f6fa92d76ce76200"
+  version "3.2.6"
+  sha256 "31f59b6db14628aa9a8ba8f8153c231ef5e36cd67d7c98e68d320c738d123ff8"
 
   url "https://github.com/BiKing567/RateSync/releases/download/v#{version}/RateSync-#{version}.dmg"
   name "RateSync"
